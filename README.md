@@ -1,4 +1,3 @@
-Here's an updated version with the requested live preview link and emojis:
 
 ---
 
